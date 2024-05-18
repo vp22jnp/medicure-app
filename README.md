@@ -1,5 +1,5 @@
-## The application runs on port 8082.
+## How to submit the project the project : 
 
-## Go through projectrequirement.md documents to understand the project requirement.
-
-## In order to submit the project, Create an detailed step by step pdf document with attached screenshots of all the tasks.
+1. Create a document with detailed step by step tasks along with the screenshot. 
+2. Please mention your github repository containing all the codes includeing application code, pipeline code, Dockerfile, Ansible scripts, Terraform scripts, kubernetes scripts etc.
+3. Upload the project in your Designated Google Drive Folder.
