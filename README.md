@@ -72,7 +72,7 @@ This process should be automatic and triggered by a push to the GitHub master br
 - Dashboard must be visualized using Grafana.
 
 ## Application source code is available at the following link
-https://github.com/mentorbabaa/medicure-app.git(https://github.com/mentorbabaa/medicure-app.git)
+https://github.com/mentorbabaa/medicure-app.git
 
 ## How to submit the project the project : 
 
