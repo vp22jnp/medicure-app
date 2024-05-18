@@ -74,4 +74,4 @@ This process should be automatic and triggered by a push to the GitHub master br
 
 ### Project Code
 
-For detailed information about running the application and exposed APIs, Input/Output format, refer to the [README.md](https://github.com/StarAgileDevOpsTraining/star-agile-health-care.git) in the GitHub repository.
+For detailed information about running the application and exposed APIs, Input/Output format, refer to the in the GitHub repository.
