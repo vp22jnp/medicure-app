@@ -59,10 +59,9 @@ Develop a Mavenized microservice using Spring Boot and an in-memory H2 database.
 When a developer pushes the updated code to the GIT master branch:
 1. The Jenkins pipeline should be triggered.
 2. Code should be checked out, compiled, tested, packaged, and containerized.
-3. A new test-cluster should be provisioned and configured automatically with all the required software.
+3. A new EKS test-cluster should be provisioned and configured automatically with all the required software.
 4. Once the cluster is healthy and available, the application must be deployed to the test-server automatically using Kubernetes.
 5. The deployment should be tested using a test automation tool.
-6. If the build is successful, it should be deployed to the prod server/cluster using Kubernetes.
 
 This process should be automatic and triggered by a push to the GitHub master branch.
 
@@ -74,4 +73,4 @@ This process should be automatic and triggered by a push to the GitHub master br
 
 ### Project Code
 
-For detailed information about running the application and exposed APIs, Input/Output format, refer to the in the GitHub repository.
+For detailed information about running the application and exposed APIs, Input/Output format, refer to the readme.md in the GitHub repository.
