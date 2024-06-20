@@ -18,5 +18,5 @@
         enabled: true
       
     - name: Deploy medicure app
-      command: docker run -itd -p 8081:8081 vaibhav123pathak/medicure-app:1.0
+      command: docker run -itd -p 8082:8082 vaibhav123pathak/medicure-app:1.0
 
